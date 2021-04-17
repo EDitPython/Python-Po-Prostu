@@ -1,1 +1,1 @@
-# Python-Po-Prostu
+# Python Po Prostu
